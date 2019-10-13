@@ -1,5 +1,9 @@
 ZeroTier - Global Area Networking
 ======
+# GPLv3 Fork
+This fork contains code that is licensed under the GPLv3. [ZeroTier Inc. decided to change licenses to the Business Source License](https://github.com/zerotier/ZeroTierOne/commit/52a166a71f4e0124c7b22123884911338aa0d698) so this fork exists so people can still freely use the source without fear of breaching the BSL, since it is not a GPL compatible license. To quote the GPL FAQ page: "We think it is wrong to take back permissions already granted, except due to a violation. If your freedom could be revoked, then it isn't really freedom. Thus, if you get a copy of a program version under one version of a license, you should always have the rights granted by that version of the license. Releasing under “GPL version N or any later version” upholds that principle."
+
+
 
 ZeroTier is a smart programmable Ethernet switch for planet Earth. It allows networked devices and applications to be managed as if the entire world is one data center or cloud region.
 
